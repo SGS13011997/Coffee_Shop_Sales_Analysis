@@ -1,5 +1,11 @@
 # ☕ Coffee Shop Sales Analysis
 
+## 📷 Dashboard Preview
+
+![Coffee Shop Sales Dashboard]<img width="1246" height="753" alt="image" src="https://github.com/user-attachments/assets/223b54e0-d642-437d-a811-7b79ed74ce92" />
+
+
+
 ## 📊 Project Overview
 
 This project presents a comprehensive sales analysis of a coffee shop using **Power BI** for interactive visualizations and **SQL** for data transformation. The dashboard delivers key business insights, helping stakeholders understand performance across different products, time periods, and store locations.
@@ -25,10 +31,6 @@ This project presents a comprehensive sales analysis of a coffee shop using **Po
 - **Excel/CSV** *(optional)*: Used for initial dataset storage.
   
 ---
-
-## 📷 Dashboard Preview
-
-![Coffee Shop Sales Dashboard](images/coffee_shop_dashboard.png)
 
 ---
 
@@ -62,6 +64,4 @@ This project presents a comprehensive sales analysis of a coffee shop using **Po
   - Lower Manhattan: `$52K`
 
 ---
-
-## 📂 Project Structure
 
