@@ -2,7 +2,7 @@
 
 ## 📷 Dashboard Preview
 
-![Coffee Shop Sales Dashboard]<img width="1246" height="753" alt="image" src="https://github.com/user-attachments/assets/223b54e0-d642-437d-a811-7b79ed74ce92" />
+<img width="1246" height="753" alt="image" src="https://github.com/user-attachments/assets/223b54e0-d642-437d-a811-7b79ed74ce92" />
 
 
 
